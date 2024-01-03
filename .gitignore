@@ -6,3 +6,4 @@ jars/
 derby.log
 metastore_db/
 *.DS_Store
+*.*
